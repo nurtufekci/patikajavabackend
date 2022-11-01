@@ -1,2 +1,2 @@
-# Patika Java Backend Pratikler ve Odevler
+# Patika Java Backend Başlangıç Düzey Pratikler ve Odevler
  
