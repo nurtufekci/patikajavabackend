@@ -1,2 +1,2 @@
-# patikajavabackend
+# Patika Java Backend Pratikler ve Odevler
  
